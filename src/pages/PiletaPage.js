@@ -25,13 +25,13 @@ const PiletaPage = (props) => {
 
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Accesorios de Mantenimiento para Piscinas.jpg" alt="Accesorios de Mantenimiento para Piscinas" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Accesorios de Mantenimiento para Piscinas.jpg" alt="Accesorios de Mantenimiento para Piscinas" />
                             <Card.Body>
                                 <Card.Title>Accesorios de Mantenimiento para Piscinas</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Accesorios para Inst. Eléctrica Vulcano.jpg" alt="Accesorios para Inst. Eléctrica Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Accesorios para Inst. Eléctrica Vulcano.jpg" alt="Accesorios para Inst. Eléctrica Vulcano" />
                             <Card.Body>
                                 <Card.Title>Accesorios para Inst. Eléctrica Vulcano</Card.Title>
                             </Card.Body>
@@ -40,13 +40,13 @@ const PiletaPage = (props) => {
                     <br/>
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Artefacto de LED Lumipool Vulcano.jpg" alt="Artefacto de LED Lumipool Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Artefacto de LED Lumipool Vulcano.jpg" alt="Artefacto de LED Lumipool Vulcano" />
                             <Card.Body>
                                 <Card.Title>Artefacto de LED Lumipool Vulcano</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Artefacto PowerLED Vulcano.jpg" alt="Artefacto PowerLED Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Artefacto PowerLED Vulcano.jpg" alt="Artefacto PowerLED Vulcano" />
                             <Card.Body>
                                 <Card.Title>Artefacto PowerLED Vulcano</Card.Title>
                             </Card.Body>
@@ -55,13 +55,13 @@ const PiletaPage = (props) => {
                     <br/>
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Filtro Lacus FL40.jpg" alt="Filtro Lacus FL40" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Filtro Lacus FL40.jpg" alt="Filtro Lacus FL40" />
                             <Card.Body>
                                 <Card.Title>Filtro Lacus FL40</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Filtro Vulcano Línea VC.jpg" alt="Filtro Vulcano Línea VC" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Filtro Vulcano Línea VC.jpg" alt="Filtro Vulcano Línea VC" />
                             <Card.Body>
                                 <Card.Title>Filtro Vulcano Línea VC</Card.Title>
                             </Card.Body>
@@ -70,13 +70,13 @@ const PiletaPage = (props) => {
                     <br/>
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Luz RGB para Cascadas Vulcano.jpg" alt="Luz RGB para Cascadas Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Luz RGB para Cascadas Vulcano.jpg" alt="Luz RGB para Cascadas Vulcano" />
                             <Card.Body>
                                 <Card.Title>Luz RGB para Cascadas Vulcano</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Retorno Orientable Lacus.jpg" alt="Retorno Orientable Lacus" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Retorno Orientable Lacus.jpg" alt="Retorno Orientable Lacus" />
                             <Card.Body>
                                 <Card.Title>Retorno Orientable Lacus</Card.Title>
                             </Card.Body>
@@ -85,13 +85,13 @@ const PiletaPage = (props) => {
                     <br/>
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Retorno Orientable Vulcano.jpg" alt="Retorno Orientable Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Retorno Orientable Vulcano.jpg" alt="Retorno Orientable Vulcano" />
                             <Card.Body>
                                 <Card.Title>Retorno Orientable Vulcano</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Skimmer Lacus.jpg" alt="Skimmer Lacus" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Skimmer Lacus.jpg" alt="Skimmer Lacus" />
                             <Card.Body>
                                 <Card.Title>Skimmer Lacus</Card.Title>
                             </Card.Body>
@@ -100,13 +100,13 @@ const PiletaPage = (props) => {
                     <br/>
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Skimmer Vulcano Boca chica.jpg" alt="Skimmer Vulcano Boca chica" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Skimmer Vulcano Boca chica.jpg" alt="Skimmer Vulcano Boca chica" />
                             <Card.Body>
                                 <Card.Title>Skimmer Vulcano Boca chica</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Soplador para Hidromasaje Vulcano.jpg" alt="Soplador para Hidromasaje Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Soplador para Hidromasaje Vulcano.jpg" alt="Soplador para Hidromasaje Vulcano" />
                             <Card.Body>
                                 <Card.Title>Soplador para Hidromasaje Vulcano</Card.Title>
                             </Card.Body>
@@ -115,13 +115,13 @@ const PiletaPage = (props) => {
                     <br/>
                     <CardGroup>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Toma de Fondo Lacus.jpg" alt="Toma de Fondo Lacus" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Toma de Fondo Lacus.jpg" alt="Toma de Fondo Lacus" />
                             <Card.Body>
                                 <Card.Title>Toma de Fondo Lacus</Card.Title>
                             </Card.Body>
                         </Card>
                         <Card>
-                            <Card.Img variant="top" src="imagenes/img pileta/Toma de Fondo Vulcano.jpg" alt="Toma de Fondo Vulcano" />
+                            <Card.Img variant="top" src="Imagenes/img pileta/Toma de Fondo Vulcano.jpg" alt="Toma de Fondo Vulcano" />
                             <Card.Body>
                                 <Card.Title>Toma de Fondo Vulcano</Card.Title>
                             </Card.Body>
