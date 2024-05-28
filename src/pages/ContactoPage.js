@@ -16,10 +16,10 @@ export const ContactoPage = (props) => {
             })
             .then(
               () => {
-                console.log('SUCCESS!');
+                window.alert('ENVIADO!');
               },
               (error) => {
-                console.log('FAILED...', error.text);
+                window.alert('ERROR...', error.text);
               },
             );
         };
@@ -50,7 +50,7 @@ export const ContactoPage = (props) => {
                     </p>
 
                     <p>
-                        <input type="submit" value="Send" />
+                        <input type="submit" value="Enviar"  />
                     </p>
                 </form>
 

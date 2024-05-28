@@ -36,24 +36,22 @@ const AblandadoresPage = (props) => {
                   <Card.Title>Ablandador de Agua Vulcano</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup >
               <Card>
                 <Card.Img variant="top" src="Imagenes/ablandadores/ABLANDADOR ELEKTRIM HF2100.jpg" alt="ABLANDADOR ELEKTRIM HF2100" />
                 <Card.Body>
                   <Card.Title className="card-title">ABLANDADOR ELEKTRIM HF2100</Card.Title>
                 </Card.Body>
               </Card>
+            </CardGroup>
+            <br />
+            <CardGroup >
+              
               <Card>
                 <Card.Img variant="top" src="Imagenes/ablandadores/ABLANDADOR ELEKTRIM HF2500.jpg" alt="ABLANDADOR ELEKTRIM HF2500" />
                 <Card.Body>
                   <Card.Title>ABLANDADOR ELEKTRIM HF2500</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/ablandadores/KIT MEDIDOR DE DUREZA.jpg" alt="KIT MEDIDOR DE DUREZA" />
                 <Card.Body>

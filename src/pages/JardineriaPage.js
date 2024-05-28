@@ -36,24 +36,21 @@ const JardineriaPage = (props) => {
                   <Card.Title>Motoguadaña Sensei</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup >
               <Card>
                 <Card.Img variant="top" src="Imagenes/jarrdineria/CS-250.jpg" alt="Motosierra Sensei 250" />
                 <Card.Body>
                   <Card.Title>Motosierra Sensei 250</Card.Title>
                 </Card.Body>
               </Card>
-              <Card>
-                <Card.Img variant="top" src="Imagenes/jarrdineria/CS-380.jpg" alt="Motosierra Sensei 380" />
-                <Card.Body>
-                  <Card.Title>Motoguadaña Sensei 380</Card.Title>
-                </Card.Body>
-              </Card>
             </CardGroup>
             <br />
             <CardGroup >
+            <Card>
+                <Card.Img variant="top" src="Imagenes/jarrdineria/HT-626-DiagonalAtr-ís.jpg" alt="Cortacerco Sensei" />
+                <Card.Body>
+                  <Card.Title>Cortacerco Sensei</Card.Title>
+                </Card.Body>
+              </Card>
               <Card>
                 <Card.Img variant="top" src="Imagenes/jarrdineria/518771.jpg" alt="Mochila pulverizadora Oregon" />
                 <Card.Body>
@@ -81,21 +78,21 @@ const JardineriaPage = (props) => {
                   <Card.Title>Tijera de poda Felco 160L</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup >
               <Card>
                 <Card.Img variant="top" src="Imagenes/jarrdineria/TR-260-Frontal.jpg" alt="Bordeadora de jardín Sensei" />
                 <Card.Body>
                   <Card.Title>Bordeadora de jardín Sensei</Card.Title>
                 </Card.Body>
               </Card>
-              <Card>
-                <Card.Img variant="top" src="Imagenes/jarrdineria/HT-626-DiagonalAtr-ís.jpg" alt="Cortacerco Sensei" />
+            </CardGroup>
+            <br />
+            <CardGroup >
+            <Card>
+                <Card.Img variant="top" src="Imagenes/jarrdineria/CS-380.jpg" alt="Motosierra Sensei 380" />
                 <Card.Body>
-                  <Card.Title>Cortacerco Sensei</Card.Title>
+                  <Card.Title>Motoguadaña Sensei 380</Card.Title>
                 </Card.Body>
-              </Card>
+              </Card>              
             </CardGroup>
             <br />
           </div>

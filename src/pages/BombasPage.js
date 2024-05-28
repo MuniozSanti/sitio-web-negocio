@@ -36,25 +36,22 @@ const BombasPage = (props) => {
                   <Card.Title>Bomba Autocebanate Elektrim Puelche</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-
-            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/Bomba centrífuga Elektrim línea LE.png" alt="Bomba centrífuga Elektrim línea LE" />
                 <Card.Body>
                   <Card.Title>Bomba centrífuga Elektrim línea LE</Card.Title>
                 </Card.Body>
               </Card>
+            </CardGroup>
+            <br />
+
+            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/Bomba de flujo Elektrim E-FLOW.png" alt="Bomba de flujo Elektrim E-FLOW" />
                 <Card.Body>
                   <Card.Title>Bomba de flujo Elektrim E-FLOW</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/Bomba elevadora inteligente Elektrim_E-SMART.png" alt="Bomba elevadora inteligente Elektrim_E-SMART" />
                 <Card.Body>
@@ -82,24 +79,22 @@ const BombasPage = (props) => {
                   <Card.Title>Bomba Vulcano Autodrenante</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/Bomba Vulcano Autocebante BAC.jpg" alt="Bomba Vulcano Autocebante BAC" />
                 <Card.Body>
                   <Card.Title>Bomba Vulcano Autocebante BAC</Card.Title>
                 </Card.Body>
               </Card>
+            </CardGroup>
+            <br />
+            <CardGroup>
+             
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/Bomba Vulcano Autocebante BAE.jpg" alt="Bomba Vulcano Autocebante BAE" />
                 <Card.Body>
                   <Card.Title>Bomba Vulcano Autocebante BAE</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br />
-            <CardGroup >
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/Bombas de calor Vulcano.jpg" alt="Bombas de calor Vulcano" />
                 <Card.Body>
@@ -127,24 +122,22 @@ const BombasPage = (props) => {
                   <Card.Title>Bomba Vulcano Autocebante BAT</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br/>
-            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/BOMBA CENTR+ìFUGA PEDROLLO L+ìNEA CP.jpg" alt="BOMBA CENTR+ìFUGA PEDROLLO L+ìNEA CP" />
                 <Card.Body>
                   <Card.Title>BOMBA CENTRÍFUGA LÍNEA CP</Card.Title>
                 </Card.Body>
               </Card>
+            </CardGroup>
+            <br/>
+            <CardGroup>
+              
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/BOMBA DE DESAGOTE MOTORARG L+ìNEA SAP.jpg" alt="BOMBA DE DESAGOTE MOTORARG L+ìNEA SAP" />
                 <Card.Body>
                   <Card.Title>BOMBA DE DESAGOTE MOTORARG LÍNEA SAP</Card.Title>
                 </Card.Body>
               </Card>
-            </CardGroup>
-            <br/>
-            <CardGroup>
               <Card>
                 <Card.Img variant="top" src="Imagenes/bombas elektrim/BOMBA PERIF+ëRICA CON HIDRONEUM+üTICO.jpg" alt="BOMBA MULTIETAPA MOTORARG" />
                 <Card.Body>
@@ -181,6 +174,13 @@ const BombasPage = (props) => {
                   <Card.Title>BOMBA PERIFÉRICA PEDROLLO LÍNEA PK</Card.Title>
                 </Card.Body>
               </Card>
+              <Card>
+                <Card.Img variant="top" src="Imagenes/bombas elektrim/EASYPRESS I.jpg" alt="EASYPRESS I" />
+                <Card.Body>
+                  <Card.Title>Presostato EASYPRESS</Card.Title>
+                </Card.Body>
+              </Card>
+              
             </CardGroup>
             <br/>
           </div>
